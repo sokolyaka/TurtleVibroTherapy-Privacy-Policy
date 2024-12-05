@@ -1,0 +1,53 @@
+Privacy Policy for TurtleVibroTherapy
+
+Effective Date: 5 Dec 2024
+
+1. Introduction
+
+TurtleVibroTherapy (“we,” “us,” or “our”) respects your privacy and is committed to protecting the personal data you share with us. This Privacy Policy outlines how we collect, use, and protect your data while using our mobile application, TurtleVibroTherapy, available on Android.
+
+2. Data Collection
+
+We do not collect any personal data from users. The app does not require any form of registration or personal information input.
+
+However, we require the following permissions to function properly:
+
+Vibration Permission: To enable the device's built-in vibrator for therapy sessions.
+Foreground Service Permission: To keep the app running during vibration therapy, even when the screen is off.
+Notification Permission: To send notifications related to the therapy sessions.
+3. Data Usage
+
+Since we do not collect personal data, no personal data is used for any purpose. The app only uses the permissions mentioned above to provide vibration therapy and notifications related to the sessions.
+
+4. Data Sharing
+
+We do not share any personal data with third parties. As we do not collect any personal information, there is no data to be shared.
+
+5. Data Storage and Security
+
+Since no personal data is collected, there is no need for storage or security measures for personal data. However, we take reasonable precautions to ensure the proper functioning of the app.
+
+6. User Rights
+
+As we do not collect personal information, there are no data access, correction, or deletion rights required.
+
+7. Third-Party Integrations
+
+This app does not use any third-party services, such as analytics tools, advertising networks, or data-sharing integrations.
+
+8. Cookies and Tracking Technologies
+
+This app does not use cookies or any tracking technologies to collect data from users.
+
+9. Children’s Privacy
+
+Our app is not intended for children under the age of 13, and we do not knowingly collect any information from children.
+
+10. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify users through a popup screen within the app. The new policy will be effective from the date it is posted.
+
+11. Contact Information
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: best.soft.juice@gmail.com
